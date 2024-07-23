@@ -12,3 +12,10 @@ Regions around the world are experiencing climate change differently, influenced
 - Evaluation Metric: [e.g., Accuracy, F1-Score, MSE]
 - Result: [e.g., 95% accuracy, F1-score of 0.8]
 # Documentation
+
+Literature Review
+Dataset Characteristics
+Baseline Model
+Model Definition and Evaluation
+Presentation
+Cover Image
